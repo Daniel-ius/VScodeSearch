@@ -1,6 +1,6 @@
-Scoding vscode-search
+# Scoding vscode-search
 
-Installation
+# Installation
 
 1. Clone the project from GitHub to your machine.
 2. Navigate to the "Backend" folder in your terminal and run `composer install` to install the necessary dependencies.
